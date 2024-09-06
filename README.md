@@ -3,8 +3,10 @@ Repositório criado para a elaboração do projeto da cadeira de Introdução à
 
 Integrantes: Daniele Lais, Geovanna Sandy e Matheus Bruno
 
-Questionamentos levantados: - De que forma a duração de uma música está relacionada com o número de streams que ela recebeu?
-                            - No geral, singles fazem mais sucesso do que álbuns?
-                            - O fato de uma música ser considerada dançável tem ligação com o seu BPM?
+Questionamentos levantados: 
+
+- De que forma a duração de uma música está relacionada com o número de streams que ela recebeu?
+- No geral, singles fazem mais sucesso do que álbuns?
+- O fato de uma música ser considerada dançável tem ligação com o seu BPM?
 
 Fonte de dados utilizada: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
