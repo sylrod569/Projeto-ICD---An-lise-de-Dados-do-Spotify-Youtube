@@ -8,6 +8,8 @@ Questionamentos levantados:
 - De que forma a duração de uma música está relacionada com o número de streams que ela recebeu?
 - No geral, singles fazem mais sucesso do que álbuns?
 - O fato de uma música ser considerada dançável tem ligação com o seu BPM?
-- Há uma possiblidade de haver uma correlação entre o Speechiness e o Instrumentalness?
+- Existe uma correlação entre o Speechiness e o Instrumentalness? Se sim, de que maneira ela se comporta?
+- A itensidade de uma música está, de alguma forma, relacionada com a sua energia?
+- Qual a correlação entre a "dançabilidade" de uma música e a sua valência? 
 
 Fonte de dados utilizada: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
